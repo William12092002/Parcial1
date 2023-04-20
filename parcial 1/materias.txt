@@ -1,0 +1,5 @@
+2536302 FisicadeOndas 4 5 3
+2555331 CalculoVectorial 4 5 3
+2598531 EcuacionesDiferenciales 4 5 3
+2598532 CircuitosElectricos1 7 5 4
+2538301 Ingles3 4 1 1
